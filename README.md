@@ -1,2 +1,2 @@
 # Basic-QR-Code-Project
-Qr code for My Youtube Channel;
+Qr code for My Youtube Channel
